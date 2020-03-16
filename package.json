@@ -80,7 +80,7 @@
     "lazypipe": "1.0.1",
     "lolex": "1.4.0",
     "minimatch": "3.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "mocha": "2.5.3",
     "morgan": "1.7.0",
     "path": "0.12.7",
