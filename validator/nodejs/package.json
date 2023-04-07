@@ -15,7 +15,7 @@
     "amphtml-validator": "index.sh"
   },
   "dependencies": {
-    "colors": "1.1.2",
+    "colors": "1.4.0",
     "commander": "2.9.0",
     "promise" : "7.1.1"
   },
